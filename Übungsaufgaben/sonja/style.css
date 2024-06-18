@@ -1,0 +1,28 @@
+html {
+    font-size: 16px;
+background-color: aliceblue;
+}
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: bisque;
+    border: 1px solid orange;
+    border-radius: 10px;
+}
+
+section{ 
+    margin-bottom: 20px;
+    background: white;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+h2 {
+    background: red;
+
+}
+p{
+    background: yellow;
+}
+h3 {background: hotpink;}
